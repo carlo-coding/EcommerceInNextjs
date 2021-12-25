@@ -1,0 +1,1 @@
+export const GOOGLE_SHEETS_URL: string = process.env.GOOGLE_SHEETS_URL as string;
